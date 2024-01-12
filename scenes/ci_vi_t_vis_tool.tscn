@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://c4livpxr6en4n"]
+
+[ext_resource type="Script" path="res://scenes/ci_vi_t_vis_tool.gd" id="1_rqyyy"]
+
+[node name="CIViT VisTool" type="Node2D"]
+script = ExtResource("1_rqyyy")
